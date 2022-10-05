@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Worker.Net6": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    },
+    "Docker.Worker.Net6": {
+      "commandName": "Docker"
+    }
+  }
+}

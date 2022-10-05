@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Worker.Net.3.1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "Docker.Worker.Net3.1": {
+      "commandName": "Docker"
+    }
+  }
+}
